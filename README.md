@@ -12,6 +12,10 @@ This project is a document question-answering app. It extracts text from uploade
 
 I built this project to make it easier to search, summarize, and understand long documents without manually reading page by page.
 
+![Main app Screenshot](assets/app-home.png)
+![Print Option](assets/app-summary-demo.png)
+![Features](assets/features.png)
+
 ## How to use
 
 1. Open the live app.
